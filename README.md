@@ -1,7 +1,7 @@
 
 # Wenhan's Home
 
-Nothing more than visiting right now: [Link](https://whwu17.github.io/)!
+This repository contains only links, about, contact, encryption and main portal page.
 
 ## Develop
 

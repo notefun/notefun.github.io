@@ -45,10 +45,9 @@ author:
 
 Timezone: Etc/UTC
 
-# collections:
-#   publications:
-#     output: true
-#     permalink: /academic/:collection/:path/
+collections:
+  sections:
+    output: true
   
   
 paginate: 10
